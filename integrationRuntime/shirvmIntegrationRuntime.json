@@ -1,0 +1,6 @@
+{
+	"name": "shirvmIntegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

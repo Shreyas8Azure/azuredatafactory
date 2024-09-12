@@ -1,0 +1,9 @@
+{
+	"name": "nicdatafactory",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "234e3006-dced-4253-8f4f-de77ab25d357",
+		"tenantId": "f4afdb9a-4960-400e-9968-4c4f3b07deed"
+	}
+}
